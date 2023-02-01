@@ -1,4 +1,2 @@
-# Code for Self-supervised Tumor Segmentation through Layer Decomposition
+# Code for Self-supervised Tumor Segmentation with Sim2Real Adaptation
 
-### Code:
-Will be made available soon.
