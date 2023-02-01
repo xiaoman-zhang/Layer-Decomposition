@@ -1,4 +1,6 @@
-## Self-supervised Tumor Segmentation with Sim2Real Adaptation [Project page](https://xiaoman-zhang.github.io/Layer-Decomposition/)
+## Self-supervised Tumor Segmentation with Sim2Real Adaptation 
+
+[Project page](https://xiaoman-zhang.github.io/Layer-Decomposition/)
 
 This repo provides a demo for the IEEE JBHI 2023 "Self-supervised Tumor Segmentation with Sim2Real Adaptation" on the  brain tumor segmentation task.
 
